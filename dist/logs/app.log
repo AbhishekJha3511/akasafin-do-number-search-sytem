@@ -1,0 +1,53 @@
+2026-06-30 11:32:24 | INFO     | root                 | ======================================================================
+2026-06-30 11:32:24 | INFO     | root                 |   DONSS — Application Started
+2026-06-30 11:32:24 | INFO     | root                 | ======================================================================
+2026-06-30 11:32:24 | INFO     | __main__             | Importing UI modules…
+2026-06-30 11:32:24 | INFO     | __main__             | Starting main window…
+2026-06-30 11:32:24 | DEBUG    | ui.theme             | Theme set to 'dark' (effective: dark)
+2026-06-30 11:32:24 | INFO     | core.data_engine     | DataEngine initialised
+2026-06-30 11:32:25 | INFO     | ui.app_window        | AppWindow initialised
+2026-06-30 11:32:25 | INFO     | ui.app_window        | Auto-loading fallback folder: C:\Users\ACER\Desktop\ABHISHEKJHA\DOEXCELFILES
+2026-06-30 11:32:25 | INFO     | core.data_engine     | Loading folder: C:\Users\ACER\Desktop\ABHISHEKJHA\DOEXCELFILES
+2026-06-30 11:32:25 | INFO     | core.data_engine     | Found 3 Excel file(s)
+2026-06-30 11:32:36 | DEBUG    | core.data_engine     | Loaded MASTER SHEET FROM APRIL 2026.xlsx (21907 rows)
+2026-06-30 11:32:39 | DEBUG    | core.data_engine     | Loaded MASTER SHEET FROM JAN 2026 FOR FILEFILLUP.xlsx (17924 rows)
+2026-06-30 11:32:46 | DEBUG    | core.data_engine     | Loaded MASTER SHEET FROM JAN 2026.xlsx (18003 rows)
+2026-06-30 11:32:46 | INFO     | core.data_engine     | Load complete — 3 file(s), 57834 records, 0 skipped
+2026-06-30 11:32:46 | DEBUG    | core.settings        | Settings saved to config.json
+2026-06-30 11:32:46 | INFO     | ui.app_window        | Folder loaded: C:\Users\ACER\Desktop\ABHISHEKJHA\DOEXCELFILES
+2026-06-30 11:33:21 | DEBUG    | ui.theme             | Theme set to 'light' (effective: light)
+2026-06-30 11:33:21 | DEBUG    | core.settings        | Settings saved to config.json
+2026-06-30 11:33:21 | INFO     | ui.app_window        | Dark mode toggled -> light
+2026-06-30 11:33:21 | INFO     | ui.app_window        | UI rebuilt for theme: light
+2026-06-30 11:38:32 | DEBUG    | core.settings        | Settings saved to config.json
+2026-06-30 11:38:32 | INFO     | ui.app_window        | Application exiting.
+2026-06-30 11:38:52 | INFO     | root                 | ======================================================================
+2026-06-30 11:38:52 | INFO     | root                 |   DONSS — Application Started
+2026-06-30 11:38:52 | INFO     | root                 | ======================================================================
+2026-06-30 11:38:52 | INFO     | __main__             | Importing UI modules…
+2026-06-30 11:38:52 | INFO     | __main__             | Starting main window…
+2026-06-30 11:38:52 | DEBUG    | ui.theme             | Theme set to 'light' (effective: light)
+2026-06-30 11:38:52 | INFO     | core.data_engine     | DataEngine initialised
+2026-06-30 11:38:53 | INFO     | ui.app_window        | AppWindow initialised
+2026-06-30 11:38:53 | INFO     | ui.app_window        | Auto-loading last folder: C:\Users\ACER\Desktop\ABHISHEKJHA\DOEXCELFILES
+2026-06-30 11:38:53 | INFO     | core.data_engine     | Loading folder: C:\Users\ACER\Desktop\ABHISHEKJHA\DOEXCELFILES
+2026-06-30 11:38:53 | INFO     | core.data_engine     | Found 3 Excel file(s)
+2026-06-30 11:39:04 | DEBUG    | core.data_engine     | Loaded MASTER SHEET FROM APRIL 2026.xlsx (21907 rows)
+2026-06-30 11:39:07 | DEBUG    | core.data_engine     | Loaded MASTER SHEET FROM JAN 2026 FOR FILEFILLUP.xlsx (17924 rows)
+2026-06-30 11:39:14 | DEBUG    | core.data_engine     | Loaded MASTER SHEET FROM JAN 2026.xlsx (18003 rows)
+2026-06-30 11:39:14 | INFO     | core.data_engine     | Load complete — 3 file(s), 57834 records, 0 skipped
+2026-06-30 11:39:14 | DEBUG    | core.settings        | Settings saved to config.json
+2026-06-30 11:39:14 | INFO     | ui.app_window        | Folder loaded: C:\Users\ACER\Desktop\ABHISHEKJHA\DOEXCELFILES
+2026-06-30 11:40:54 | INFO     | core.data_engine     | Searching DO Number: AE48398
+2026-06-30 11:40:54 | INFO     | core.data_engine     | Found DO AE48398 — customer: Jamuna Kondha
+2026-06-30 11:40:54 | DEBUG    | ui.history_table     | History entry added: AE48398
+2026-06-30 11:41:02 | INFO     | core.data_engine     | Searching DO Number: AE48398
+2026-06-30 11:41:02 | INFO     | core.data_engine     | Found DO AE48398 — customer: Jamuna Kondha
+2026-06-30 11:41:02 | DEBUG    | ui.history_table     | History entry added: AE48398
+2026-06-30 11:47:29 | INFO     | core.data_engine     | Searching DO Number: AE47988
+2026-06-30 11:47:29 | INFO     | core.data_engine     | Found DO AE47988 — customer: Mintu Mali
+2026-06-30 11:47:29 | DEBUG    | ui.history_table     | History entry added: AE47988
+2026-06-30 11:47:32 | INFO     | core.data_engine     | Searching DO Number: AE47988
+2026-06-30 11:47:32 | INFO     | core.data_engine     | Found DO AE47988 — customer: Mintu Mali
+2026-06-30 11:47:32 | DEBUG    | ui.history_table     | History entry added: AE47988
+2026-06-30 11:48:21 | INFO     | ui.app_window        | Opened GitHub profile link
