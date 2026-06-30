@@ -17,7 +17,7 @@ from typing import Dict, List, Tuple
 APP_NAME: str = "DONSS"
 APP_VERSION: str = "2.0.0"
 APP_AUTHOR: str = "Abhishek Jha"
-APP_GITHUB: str = "https://github.com/AbhishekJha3511"
+APP_GITHUB: str = "https://github.com/AbhishekJha3511/akasafin-do-number-search-sytem"
 APP_DESCRIPTION: str = "DO Number Search System — Professional Edition"
 
 WINDOW_WIDTH: int = 1600
